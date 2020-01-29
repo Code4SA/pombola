@@ -117,7 +117,7 @@ bleach==2.1.4
 celery==3.1.17
 chardet==3.0.4
 cssselect==0.9.1
-django-bleach==0.3
+django-bleach==0.5.3
 django-celery==3.1.16
 django-qmethod==0.0.3
 django-subdomain-instances==2.0
